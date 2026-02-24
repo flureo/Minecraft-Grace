@@ -70,3 +70,10 @@
 > Just got done with a dozer prototype. I didn't really know how to make the animation work :happy: I also updated some names and I fixed some movement system stuff but nothing really important. Also I just found out some hard limitations with datapacks but I will explain that later right now I want to go to bed. Good night love yall.
 
 ---
+
+**Devlog #9 2/23/2026**
+> *Flureo*
+>
+> So yeah, this project kinda died. If anyone is reading this for some reason thanks. I don't really know why this project so I really don't have anything else to add on that.
+
+---
